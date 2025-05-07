@@ -1,5 +1,5 @@
 # frozen_string_literal: true
 
-module ReverseGeo
+class ReverseGeo
   VERSION = "1.0"
 end
